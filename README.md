@@ -27,7 +27,7 @@
 
 ## 📂 Project Repository  
 
-🔗 **[GitHub Repository]([https://github.com/shadabmansurii/New-HMS])
+🔗 **[GitHub Repository]([https://github.com/shadabmansurii/New-HMS])**
 
 ## 📌 Installation & Setup  
 
