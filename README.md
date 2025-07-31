@@ -27,11 +27,11 @@
 
 ## 📂 Project Repository  
 
-🔗 **[GitHub Repository]([https://github.com/shadabmansurii/New-HMS])**
+🔗 **[GitHub Repository](https://github.com/shadabmansurii/New-HMS/)**
 
 ## 📌 Installation & Setup  
 
-1. **Clone the Repository**  
-   ```sh
-   git clone https://github.com/yashtupkar/New-HMS.git
+1. **Clone the Repository**
+
+   git clone https://github.com/shadabmansurii/New-HMS.git
    cd New-HMS
