@@ -34,4 +34,5 @@
 1. **Clone the Repository**
 
    git clone https://github.com/shadabmansurii/New-HMS.git
-   cd New-HMS
+   
+   cd Hospital-Management-System
